@@ -1,7 +1,7 @@
 # Hi! 👋 I'm Luiz
 
 ### 🚀 About Me
-- 👨‍💻 Estudante de Engenharia de Software apaixonado pelo Instituto Nacional de Telecomunicações
+- 👨‍💻 Estudante de Engenharia de Software pelo Instituto Nacional de Telecomunicações
 - 🤖 Desenvolvedor iniciante apaixonado por tecnologia 
 - 🌱 Sempre aprendendo novas linguagens e frameworks 
 - 📫 Contato: [luizotavio.paiva04@gmail.com](mailto:luizotavio.paiva04@gmail.com)
