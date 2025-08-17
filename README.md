@@ -18,7 +18,7 @@
 
 ### 🛠️ Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,git,github" />
 </p>
 
 ---
