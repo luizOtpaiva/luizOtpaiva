@@ -16,7 +16,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,c++,mysql,git,github" />
 </p>
